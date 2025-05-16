@@ -1,0 +1,20 @@
+Notes and Time Complexity
+LinkedList Operations:
+
+Insertion at End: O(1)
+Display: O(N)
+Stack Operations:
+
+Push: O(1)
+Pop: O(1)
+Display: O(N)
+Queue Operations:
+
+Enqueue: O(1)
+Dequeue: O(1)
+Display: O(N)
+Tree Operations:
+
+Insertion: O(log N) on average
+Search: O(log N) on average
+Deletion: O(log N) on average
