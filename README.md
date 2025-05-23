@@ -106,11 +106,6 @@ Enter your choice: _
 * Re‑entering invalid menu numbers sometimes prints the error **after** the header instead of before – harmless but cosmetic.
 * Auxiliary DS files (Queue/Stack/Tree) aren’t used by `main.cpp`; prune or integrate.
 
----
-
-## License
-
-This sample project is released under the MIT License.  See the **LICENSE** file (create one if needed).
 
 ---
 
